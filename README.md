@@ -1,8 +1,5 @@
 # Hello-world
 
-Exercício de Casa :house:
-1. Utilizando as novas ferramentas
-Tente fazer o passo a passo abaixo sem consultar as aulas inicialmente. Caso não se lembro como realizar alguns dos passos, sinta-se a vontade para consultar as aulas e lembrar.
 
 Crie um novo repositório no GitHub chamado hello-world
 Na sua máquina, abra o terminal e navegue até a pasta que você criou pelo curso, na matéria de back-end, na aula 01.
